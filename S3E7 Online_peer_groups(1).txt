@@ -1,0 +1,356 @@
+﻿W: Hi everybody, before we start today's show, just thought I would say that after the conversation I had with Ellie about online peer support groups, I've just signed up for one for the first time ever. Nothing to do with Hearing Voices, because of course there are plenty of mental health peer support groups out there for all different types of conditions and experiences, but just thought I'd mention it. Hope you enjoy the show.
+
+
+[Music]
+
+
+W: Hi, my name is Will. Not Ellie, as it says in the script here.
+
+
+E: My name is Will. 
+
+
+W: It's a good start. Hi, my name is Will.
+
+
+E: And my name's Ellie.
+
+
+W: Welcome to Lively Minds, the podcast about mental health challenges that go beyond the ebb and flow of the everyday.
+
+
+E: The podcast that looks at how developing our understanding of mental health influences how we address it.
+
+
+[Music] 
+
+
+W: In today's episode, I am going to be interviewing our very own Ellie Page. Hello, Ellie.
+
+
+E: Hello.
+
+
+W: I'm going to be chatting to her about her latest published research that she did as part of her Masters in Psychology with the University of Liverpool. The link will be in the show notes.
+
+
+E: My research was exploring the impact of the COVID-19 pandemic on Hearing Voices group facilitators in the UK and what came out of those discussions, quite a lot of themes came out of those, but one of the themes was centered around the very rapid and in some ways like completely forced transition to using video teleconferencing formats so from now on we'll just say zoom because that's what I mean, or teams or whatever the other brands are people use, google, and lots of interesting things came up like issues of access to technology, computer literacy, how this changed facilitator roles and the dynamics of peer support groups. 
+
+
+W: And I'm going to be particularly interested in chatting to Ellie about what we can learn from her research, how effective is online delivery for mental health peer support, what can we do to address its challenges whilst enhancing its benefits and could this approach shape the future of grassroots community-based mental health care? But to begin with Ellie, I just want to clarify a few terms that we're going to be using in this conversation. Er first of all, can you just clarify what we mean by peer support in a mental health context? 
+
+
+E: The most well-known example of peer support in a community-based mental health context is probably Alcoholics Anonymous or Narcotics Anonymous, which are support groups that are typically run and facilitated by people who have had experiences of addiction to alcohol or narcotics, depending on the group. And those groups have been going for years and evidently have a very successful model that seems to work for a really huge number of people. So generally peer support, loosely it would mean someone is receiving support from someone who has gone through a similar experience to them.
+
+
+There's a move in the NHS, a growing move at the moment, to involve more people who might be referred to as experts by experience or lived experience practitioners. We're starting to see more examples of people asking for people with lived experience to be involved in a more leadership level and kind of discussing policy and having an involvement on strategy and how we, how we work with people, which is really good and I think that's, I hope that continues to be the case, like respecting the voices of people who were experts in their own experience.
+
+
+W: It reminds me of, actually something that Alastair said in the last interview where he was talking about what he sees as a bit of a false dichotomy between professional expertise and expertise by experience 
+
+
+E: Yeah
+
+
+W: and how in actual fact the reality is that there was often a real merge in between those two things. It isn't an either or, it can be a bit of both and that each kind of perspective brings own value, but that of course historically the experts by experience angle has been underrepresented within mental health services sector, so it is very welcome, yeah, that there's more of that happening. 
+
+
+E: Yeah, definitely. 
+
+
+W: I think that a separate conversation about peer support actually would be really fascinating on the show. 
+
+
+E: Yeah, I'd really like to talk to someone from Alcoholics Anonymous or Narcotics Anonymous who's been working within that model for a while, because, because I find it, I'm so interested in how because it's entirely volunteer led. And yeah, I'm very interested in how that kind of works.
+
+
+W: Yeah, definitely.  But in this show, we are talking particularly about the impact of peer support groups moving into an online context, a video conferencing context, as you say, zoom, we'll just say zoom from now on, as you say, because of the pandemic, and the way that that has continued to be a model that many peer support groups are using following the pandemic. And for your research, you focused specifically err around the experiences of Hearing Voices Network facilitators. Could you just begin by explaining to us what the Hearing Voices Network is and how it uses peer support in its practice?
+
+
+E: Sure, so this is not going to be the best explanation probably, and we will have another episode about the Hearing Voices Network 
+
+
+W: hmmmm
+
+
+E: with some people involved in it particularly, but started in the 80s and fast forward to now, essentially it's an organisation or a movement actually more accurately, that seeks to support, advocate for and represent people who have extra sensory experiences. So this might be audible or visual hallucinations or Hearing Voices externally or internally. And it's generally community based. And one of the main things the Hearing Voices Network does is it just is an umbrella organisation for a number of local peer support groups. And the idea is that people can talk openly about their experiences, Hearing Voices or seeing visions, without fear of judgment or fear of, kind of, stigma and over-medicalising of their experiences. And yeah, it's a space for people to not only share kind of their experiences, but also share their ways of coping with the negative aspects and also celebrating the positive aspects of those experiences because it's not entirely negative and people share their various ways that they've found to cope. Every kind of view is welcome so there will be people who have found medication to be really helpful in eliminating the unpleasant aspects of it that they don't want to experience anymore but there's also a lot of people who don't take medication for it and the aim of living well is living alongside the voices and figuring out a way to have them in your life without it being so negative. So it's like alternative and social approaches to those extra sensory experiences.
+
+
+W: From your perspective doing the research, could you begin by just giving us some broad brushstrokes on what the main considerations were as people were, as you say, forced at first to move into an online setting because of the Covid pandemic?
+
+
+E: Well, I'd done quite a bit of work with the Hearing Voices Network before and I actually used to attend occasionally, like a group, that would meet online and I'd attended a couple of sessions of an in-person one as well, and I generally have just done quite a bit of work with them so I was really familiar with the network. The pandemic was an intense time and I was shielding and it was intense but also I think I was lucky in a way. I had my partner at the time with me and although I had to live in one room for 18 months and obviously it was challenging, we found ways of dealing with it. I was very aware that there were times of my life where I kept thinking, well, how would I have dealt with that back then when I wasn't doing so well? You know?
+
+
+W: You mean how would you have dealt with lockdown and being able to leave?
+
+
+E: Yeah, when I was in a worse sort of space and living on my own or whatever. I was really interested to know what kind of support was available to people, you know, are social workers still doing visits. What about all of the community-based mental health support have people completely lost that now? How many, or is that still going in some kind of one form or another? So that was where it came from. It was all qualitative, so I interviewed facilitators, and it was more about just talking to them and getting a new sort of bank of data for people to look at, really. 
+
+
+W: Could it be summarised as saying that there were both significant challenges but also benefits to moving peer support groups online?
+
+
+E: Yes, but actually what I found interesting was that it's not quite as simple as saying there's pros and cons because the pros were the cons and the cons were the pros, because each point of comparison produced both a pro and a con and those will both always exist together. So for example, if the point of comparison is not physically travelling to a group meeting, well, that's the fact that happens. The pro would be that that saves stress, energy, money, time. Maybe it helps with motivation, but then it also means that it blurs the boundaries completely by inviting a peer support group into your own personal space.
+
+
+W: mmmm
+
+
+E: So my take, this is my personal take rather than what I was trying to say or anything in the research. I think in an ideal world you would always have both available.
+
+
+W: Can you give us any other examples of a point of comparison which creates both benefits and challenges?
+
+
+E: Okay, so members of the group have more autonomy over whether or not and how they engage with the group. So they can go in and out more quickly and easily. If you wanted to check something out for 10 minutes in person, it would be a bit difficult to pop in and out without being noticed. People might also feel more comfortable to sit there with their camera off or to not really contribute but to sit and observe. So having autonomy over your engagement is the point of comparison. Good thing about that is that you're more likely to have new members try out the group who have otherwise talked themselves out of going whilst on the bus to a physical place to meet everyone else in the group. However, with this being the case, it's also harder to manage the disruptions of people dropping in and out and it also brings all these other levels of engagement into question that people might not want. Whereas you might have got really good as a facilitator at reading body language. 
+
+
+W: Yeah.
+
+
+E: Or checking in with people one to one very quickly in person just before it starts to say, are you all right? You seem nervous. Do you want to not speak at this group? I don't have to ask any questions. All of those things like that. You don't have those.
+
+
+W: How close did you get to, in inverted commas the ideal online peer support meeting? Is there such a thing? Is there a way of doing a peer support meeting online that is as accessible and as inclusive as possible?
+
+
+E: Yeah, there will always be a way of doing something as inclusive and accessible as possible. How good that is for different people is 
+
+
+W: mmm
+
+
+E: where the question comes in. 
+
+
+W: Because everybody has differing requirements.
+
+
+E: Yeah, and but then that's what part of the research was about. There's also a way of doing an in-person peer support group as accessible and inclusively as possible, but that still might not work 
+
+
+W: Yes
+
+
+E: for several people. And actually group dynamics are really interesting and on so many things and with the groups I talked to some people did different things differently but that completely worked for their group.
+
+
+W: Yeah.
+
+
+E: But if that group's membership changed entirely that might not work. 
+
+
+W: mmm
+
+
+E: But yeah, I definitely spoke to a lot of people who had some really amazing techniques for different aspects of the online group and how they did it and people regulated the discussion in really amazing ways because I think it's something very, very difficult to do.
+
+
+W: Yeah.
+
+
+E: so thats partly what the research was about as well. Peer support group facilitators, what skills and responsibilities did they have before moving online? Which of those were still relevant or did they have new ones? Although I'm not sure if that bit made it into the paper because the academic world is very biased towards quantitative research so I couldn't publish the full thing because of the word limit.
+
+
+W: Yeah. And I guess that group facilitator skills, that would be applicable to either the online environment or the in-person environment, would include having clarity about ground rules, information people receive about how they can engage in a session so that they can ascertain whether or not that approach is right for them. 
+
+
+E: Yeah 
+W: You mentioned the example of people being able to switch their camera off for example, so having that knowledge in advance, that's something you can do, it's going to be really useful for that individual. I guess also it's useful for others to know, including people who might feel a little uncomfortable with somebody where their camera turned off, for example.
+
+
+E: Well, yeah, exactly. That's the other thing, then what do, and that was one of the things that comes out from a few of the comparative point, what do you do about privacy and anonymity and things like that?
+
+
+W: Was there anything surprising that came out of the research or the conversations
+that you had?
+
+
+E: Yes, actually, I thought that more people would talk about zoom fatigue, which seemed to be a sort of pop culture phrase that was thrown around a lot after the pandemic, when you've just been on zoom for too long. And so I'd done quite a bit of research into zoom fatigue before doing the interviews, just because that seemed to be an area of research that might be relevant for what people had experienced over the pandemic. But actually, it wasn't really an issue. It wasn't spoken about in the interviews that I had really, which actually makes sense because the group facilitators weren't necessarily spending loads of time on Zoom apart from when they did the group. So actually it makes sense. Also, there are so many Hearing Voices groups in the UK and so I guess some of the surprising things would just be like, how differently each of them ran 
+
+
+W: mmm
+
+
+E: because I guess I've only had my experience of several that I've been to. So yeah, sometimes I was surprised, but not in a bad, this isn't a good or bad way, I think probably a good, but there were some, some groups that would have quite strict rules at the start, very strict, whereas another group would be, the housekeeping bit at the start would be very much focused on, this is your space, you do whatever you want or do whatever you need to do, but then others were like, in order to make this a safe space for everyone, please don't smoke on screen, please introduce yourself even if you're then gonna have your camera off. There were lots of just little things like that that I found really interesting. 
+
+
+W: mmmmm
+
+
+E: Again, that both of which worked for those groups perfectly, but then if you did one in the other one, I think they'd be like, what? Yeah, so it's really interesting.
+
+
+W: Okay, let's go to a short break and we'll be back in a moment.
+
+
+[Music]
+
+
+E: We are on social media! Come over and tell us what you thought of a show, suggest a topic for future episodes, or just say hello. Our handle is the same across all platforms, Lively Minds Pod, that's all one word. You'll find us on X, Instagram, Facebook, and LinkedIn, and you'll find all links to our social media pages at livelymindspod.com. You can also get in touch by emailing hello@livelymindspod.com.
+
+
+[music]
+
+
+W: I guess one thing that could be said about online engagement is that, if you have various peer support groups which all operate in slightly different ways in the online version of that, it's going to be easy, isn't it, for people to find a group that works for them simply because, by joining online you're not limited by geography.
+
+
+E: Well, yeah, that was a big one. And yeah, and that's again a pro and a con, isn't it? Because the benefit is that, yeah, people aren't restricted to geography. So for example, if you live somewhere quite remote in the UK and there's no nearby Hearing Voices group or even not somewhere particularly remote but there just isn't a Hearing Voices group nearby to you, then now you can join one. And quite a few groups occasionally had people joining from all over the world and had no idea how or why that had ended up happening. But at least in a couple of the groups, a couple of the international members had now just join, they're still members years later. But then what's difficult about that, about it opening up attendance is that it's harder to control attendance. So it's harder to predict it, it's harder to safeguard it. And safeguarding in this context has a lot of complicated connotations. But if you knew everyone in your group was based loosely in the city that you're in, 
+
+
+W: hmmm
+
+
+E: and you were worried about something, 
+
+
+W: Yeah
+
+
+W: You might have a better idea of if you did want to do anything about it, what to do or what might be available, but someone completely out of the blue on the other side of the world, you might not know.
+
+
+W: Yeah, that's a really good point.
+
+
+E: But a lot of these kind of things are just, we're people. People are very different, people are complicated and so you're always going to need to be adaptable and there's always going to be question marks and things like that.
+W: One of the things you mentioned in the research is the whole thing about how what began for some people as a response to the pandemic has continued beyond the pandemic. There's still quite a lot of online groups happening now and what I found quite interesting reading around that was that, this is the case for a lot of mental health peer support groups. In light of the idea that the, this approach to peer support is going to stick around for a while, one of the other things I found quite interesting in your paper was stuff around digital exclusion, like people who just struggled with the technology, didn't have access to the technology. 
+
+
+E: Yeah
+
+
+W: You mentioned that some of the facilitators you spoke to had concerns about people they might not be seeing because they can't access the technology. I mean, just talking from the point of view of Beacon Films, the production company I'm part of that supports disabled and neurodivergent filmmakers, during the pandemic we had a big ring around people who weren't coming to our online activity because we were thinking, "are they just not joining us because they just don't want to or are they not joining us because there's a real problem there?"  And so I can totally see how that concern can develop.
+
+
+E: Yeah, and there's a lot of... so that's quite a good example actually with Beacon Films because that's, that’s the organisation that you work for, so there's a safeguarding policy, you know, and one of the things that this brought up is that a lot of people running these groups, you know, it's someone volunteering in their spare time. And some people have been doing it for years and talk at conferences and are very involved in like the whole movement and things. Other people, it might be quite new, and where is that boundary, during what was nationally acknowledged as a triggering and upsetting time for many. People might feel just uncomfortable about phoning someone on their personal mobile and you've never had that relationship before. And if someone's only attended once, might not have their phone number. There's like, a lot of things like that, that in terms of it being community-based and voluntary that I think are really, make it really complicated. But yeah, the technology and the equipment not being available unsurprisingly has been a big problem. Like the lack of equality in terms of technology and computer literacy was made quite astonishingly obvious during the pandemic 
+
+
+W: Yeah
+
+
+E: and definitely was obviously a big issue for a lot of these groups and the facilitators as well. Like the skills that are required of a group facilitator are extensive and amazing and you could have all of those. That does not mean you know how to troubleshoot other people's tech problems on Zoom, 
+
+
+W: Yeah
+
+
+E: which also then everyone's looking to you to do and you might have just got your nephew to set it up for you. So you're just like, and then that makes people, people get very upset. 
+
+
+W: Yeah
+
+
+E: We've all felt it, but it can be very distressing when you're, and you feel like you're on the spot and you can't get yours to work, or you can't unmute all of that sort of thing. It just, 
+
+
+W: you're already feeling potentially quite vulnerable 
+
+
+E: and quite anxious and then suddenly, you can't get it to work. Yeah. So it's really difficult. And there's only so much that someone can do in that setting from a distance online.
+W: Funnily enough, one of the charities I work with, Blue Cabin, shout out to Blue Cabin, they have a really interesting approach to that, which is that they will, and again, they're a, an organisation with paid members of staff, so it's different from the volunteer context in that sense, but they have separate roles of a facilitator of a group online, and then what they call the producer, and the producer role is entirely technical. They're the person that people contact, if there's any issues, they're the one that sorts that out so that the facilitator is able to 
+
+
+E: Focus
+
+
+W: completely focus on just running the group without having to think about the technology. 
+
+
+E: Thats great yeah
+
+
+W: And I've always thought that's a very sensible approach, isn't it? But also what you say points to that ongoing inequality when it comes to access and familiarity with computers, the internet, and despite the fact that in so many ways online technologies can bring so much potential, like what we're doing right now being examples 
+
+
+E: mmmm
+
+
+W: where we're talking to each other in a virtual recording studio online. There's so many people who are being left behind from all those opportunities. And so therefore working out ways to address that is, is part of solving the puzzle, isn't it? 
+
+
+I want to finish off just by asking you. Okay, so your research was focused on Hearing Voices, network, facilitators, transferring their peer support work into an online setting, using Zoom, etc. The alternative to that is face-to-face. Can you just speak to a moment about kind of the things we have to think about when we try striking that balance between providing peer support through online means and also doing it in a face-to-face environment?
+
+
+E: For a peer support group, I mean, I don't know. I think, again, personally, just off the top of my head, I think it would be to have, say you have a weekly group doing it alternately in person or online or something, basically just having the offer of both. Because one of the biggest fears for myself and a lot of other disabled people as we were coming out of the pandemic was that people kept talking about, "Oh, can't wait till things go back to normal and we don't have to deal with this Zoom thing." 
+
+
+W: mmmm
+
+
+E: And it's like, well, actually, the ability to have meetings and such and people being up for it on Zoom has made a massive difference to my career and life and arts practice and education and 
+
+
+W: mmmm
+
+
+E: and I wouldn't have been able to do those things without that. If all of those things were in person only, I wouldn't have been able to a fraction of them and that's the same is true for so many people. So I really think it's so important and I've made the best friends through online, in fact, we met through online working in in the pandemic. 
+
+
+W: Yes. 
+
+
+E: There's people have meetings with who are like insanely good at the hybrid meetings, which is really amazing. And they work so well. However, I think there's a lot of like potential problems to using that for like a peer support group setting so that I wouldn't necessarily suggest that. 
+
+
+W: Yeah. Of course, the hybrid approach is a whole other thing, isn't it, which can be done really well, and can also be done really badly. 
+
+
+E: Yeah. 
+
+
+W: And we’ve found at Beacon Films that if it's purely conversation based, we actually find that hybrid works quite well. All of our board meetings are hybrid for example. 
+
+
+E: Yeah
+
+
+W: That I think does work really well. Where it becomes a problem is when you start to inadvertently create this kind of two-tier 
+
+
+E: Yeah
+
+
+W: system whereby the people who are online are missing out because they're not able to directly engage in stuff that the people who are there in person are able to and that's where we start to get issues. 
+
+
+E: Yeah, and I think in a peer support setting you're managing potentially very sensitive conversations and I don't know how that would really work super well, well I don't know - but anyway I wouldn't necessarily recommend, especially because like technology itself can be a trigger for quite a lot of people and so I think if the point of making sure that you offer both online and in-person events, if the point of that is to reap the benefits of both of those then one of the benefits of in-person would mean not having screens and cameras everywhere. 
+
+
+W: Yeah
+
+
+E: We did talk quite a bit about the end of a zoom when you press the red button and then the screen goes black and then you just realise you start there on your own and it is still so important obviously to meet people if you can, and when you can, and so effort needs to be put into creating spaces that are accessible for people to do that and affordable and that was another thing - if you can't afford to hire a church hall for two hours a week, what do you do? 
+
+
+W: Yeah. 
+
+
+E: And I heard a lot of people say that the Zoom thing was like, it's better than nothing, but it's not as good as what the idea would be. That was a lot of people's perspectives. But again, it was also, a lot of people's perspectives that it was much more manageable because it was less in-person intensive. So I just think you need to try to have a balance. 
+
+
+W: Thank you so much, Ellie. That's been really fascinating to talk to you about that.
+
+
+[Music]
+
+
+E: Thank you for listening. As always you can find us on social media at Lively Minds Pod. 
+
+
+W: Make sure you subscribe to Lively Minds wherever you get your podcasts and tune in again next month for another episode. 
+
+
+E: Please note that this show does not constitute medical advice and is not a replacement for seeking professional help. You can find signposting to support on our website www.lifeliminespod.com 
+
+
+W: Take care and bye for now.
+
+
+E: Bye-bye.
+
+
+[Music]
